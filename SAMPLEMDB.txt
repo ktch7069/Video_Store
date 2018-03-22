@@ -1,0 +1,11 @@
+ITEM-DVD
+Brokeback Mountain
+Ang Lee
+2005
+romance
+dvd
+128
+Paramount
+M
+NO
+END-A-DVD-ITEM
